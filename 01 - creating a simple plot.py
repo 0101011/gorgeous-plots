@@ -24,5 +24,5 @@ ax.set(xlabel='time (s)', ylabel='interest (points)',
 # Add a marvelous grid
 ax.grid()
 
-# This function show everything you've added so far in your plot. Enjoy the curvies!
+# This function shows everything you've added so far in your plot. Enjoy the curvies!
 plt.show()
