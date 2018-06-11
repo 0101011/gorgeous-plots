@@ -3,7 +3,7 @@ to create a sample plot which shows your curiosity in learning matplotlib.
 Read along and have fun!''' 
 
 import matplotlib
-import matplotlib.pyplot as plt # A rich collection of command style functions
+import matplotlib.pyplot as plt # Pyplot is a rich collection of command style functions
 import numpy as np
 
 # Insert some data to play with below using Numpy
